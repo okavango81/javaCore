@@ -18,5 +18,10 @@ Códigos fonte de exemplos utilizando a linguagem de programação Java.
   #
   #
 - ### kWh Consumption
-  O programa deve ser capaz de definir o perfil de consumo de kWh para cada residência de uma dada lista baseada no número de moradores e consumo do mês. Deverá ser possível listar cada um dos três perfis (LOW, MID, HIG) individualmente além de escolher uma residência específica baseada no seu identificador (id).![results](https://github.com/okavango81/assets/blob/main/kWhConsumption.png)
+  O programa deve ser capaz de definir o perfil de consumo de kWh para cada residência de uma dada lista baseada no número de moradores e consumo do mês. Deverá ser possível listar cada um dos três perfis (LOW, MID, HIG) individualmente além de escolher uma residência específica baseada no seu identificador (id).
+![results](https://github.com/okavango81/assets/blob/main/kwh1.png)
+.
+.
+.
+![results](https://github.com/okavango81/assets/blob/main/kwh2.png)
 
