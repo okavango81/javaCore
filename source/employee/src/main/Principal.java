@@ -18,8 +18,8 @@ public class Principal
         int n = scanner.nextInt();
         List<Employee> employees = new ArrayList<>();
 
-        IntStream.range(0, n).forEach(i -> {
-
+        IntStream.range(0, n).forEach(i ->
+        {
             System.out.println();
             System.out.println("Employee #" + (i + 1));
             System.out.print("Id: ");
@@ -43,7 +43,8 @@ public class Principal
 
         Employee employee = employees.stream().filter(x -> x.getId() == idEmployee).findFirst().orElse(null);
 
-        if (employee != null){
+        if (employee != null)
+        {
             System.out.print("Enter the percentage: ");
             String p = scanner.next();
             double percentage = Double.parseDouble(p.replace(",", "."));
